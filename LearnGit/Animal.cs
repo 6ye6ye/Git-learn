@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace LearnGit
 {
-    class FirstTestClass
+    public class Animal
     {
+        public  int RunSpeed;
+
+        public Animal()
+        {
+
+        }
     }
 }
